@@ -6,6 +6,8 @@ Professor Jorge Henrique Fernandes
 
 | Nome | Matrícula | GitHub Username | Tema | Link GitHub Repo | Link Overleaf |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Jônatas Gomes Barbosa da Silva | 170059847 | jonatas1n | Fire Forest | github.com/jonatas1n/forest-fire | www.google.com |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 
 ## Passo a passo
 
